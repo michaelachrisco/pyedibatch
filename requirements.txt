@@ -1,0 +1,6 @@
+PyQt5==5.9.2
+pytest
+mamba
+expects
+pyx12
+pytest-qt
